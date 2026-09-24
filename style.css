@@ -31,3 +31,11 @@ a{text-decoration:none;color:inherit}.container{width:min(1120px,92%);margin:0 a
 @media(max-width:480px){
 .container{width:91%}.hero{padding-top:34px}.hero h1{font-size:31px}.hero-lead{font-size:13.5px}.hero-actions{grid-template-columns:1fr 1fr}.hero-actions .btn{min-height:44px}.trust-row strong{font-size:9.5px}.trust-row span{font-size:8.5px}.hero-panel{transform:scale(.72);min-height:190px;margin-bottom:-52px}.panel-badge{font-size:8px}.floating-whatsapp{width:58px;height:58px;right:14px;bottom:14px}.floating-whatsapp svg{width:31px;height:31px}.floating-whatsapp span{display:none}.brand-copy small{max-width:180px}.steps{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}
 }
+
+/* Clean hero illustration: keep the laptop message unobstructed */
+.floating-card{display:none!important}
+.hero-panel{min-height:390px}
+.panel-badge{top:20px;right:3%;z-index:5}
+.panel-screen{z-index:2}
+@media(max-width:760px){.hero-panel{min-height:210px;margin-top:0;margin-bottom:-28px;transform:scale(.82)}.panel-badge{top:2px;right:2%;font-size:9px}.panel-screen{width:96%}}
+@media(max-width:480px){.hero-panel{min-height:180px;margin-bottom:-42px;transform:scale(.72)}.panel-badge{font-size:8px}}
