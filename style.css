@@ -67,3 +67,9 @@ section[id]{scroll-margin-top:92px}
   section[id]{scroll-margin-top:72px}
   .service-hub-card strong{font-size:16px}
 }
+
+.service-request{display:inline-flex;align-items:center;gap:6px;margin-top:auto;padding-top:12px;font-weight:700;color:#0b63ce;text-decoration:none}
+.service-request:hover,.service-request:focus-visible{text-decoration:underline}
+.service-page-links{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:36px auto 0;width:min(1100px,91%)}
+.service-page-links a{padding:10px 14px;border:1px solid rgba(11,99,206,.18);border-radius:999px;background:#fff;color:#0b63ce;text-decoration:none;font-weight:700;font-size:13px}
+.service-page-links a:hover,.service-page-links a:focus-visible{border-color:#0b63ce}
