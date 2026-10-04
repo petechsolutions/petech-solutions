@@ -683,3 +683,31 @@ details{
     animation:none!important;
   }
 }
+
+
+/* Final hero illustration spacing fix:
+   keep the desktop/laptop graphic visually separated from the next section. */
+.hero-panel{
+  padding-bottom:24px;
+}
+.panel-base{
+  bottom:68px;
+}
+@media(max-width:900px){
+  .hero-panel{
+    padding-bottom:18px;
+    margin-bottom:-12px;
+  }
+  .panel-base{
+    bottom:30px;
+  }
+}
+@media(max-width:480px){
+  .hero-panel{
+    padding-bottom:14px;
+    margin-bottom:-28px;
+  }
+  .panel-base{
+    bottom:26px;
+  }
+}
