@@ -177,5 +177,6 @@
 function toggleMenu(){const menu=document.getElementById('navLinks');const button=document.querySelector('.menu-toggle');const open=menu.classList.toggle('active');button.setAttribute('aria-expanded',open?'true':'false')}
 document.querySelectorAll('.nav-links a').forEach(link=>link.addEventListener('click',()=>{document.getElementById('navLinks').classList.remove('active');document.querySelector('.menu-toggle').setAttribute('aria-expanded','false')}));
 </script>
+<script src="effects.js" defer></script>
 </body>
 </html>
