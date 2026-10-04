@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f7fbff"/>
+<rect width="1200" height="24" fill="#0b63ce"/>
+<rect x="70" y="75" width="1060" height="480" rx="28" fill="#ffffff" stroke="#dcecff" stroke-width="3"/>
+<circle cx="155" cy="160" r="58" fill="#0b63ce"/>
+<text x="155" y="180" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#ffffff">P</text>
+<text x="240" y="155" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#0b63ce">PETECH SOLUTIONS</text>
+<text x="240" y="195" font-family="Arial,sans-serif" font-size="22" fill="#536579">Professional Digital &amp; Career Services</text>
+<text x="120" y="295" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#172b4d">Digital, Career &amp; Business</text>
+<text x="120" y="355" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#0b63ce">Services Across Kenya</text>
+<text x="120" y="415" font-family="Arial,sans-serif" font-size="24" fill="#536579">CVs • Job Applications • HELB • KRA • SHA • eCitizen</text>
+<text x="120" y="455" font-family="Arial,sans-serif" font-size="24" fill="#536579">Graphic Design • Web Development • Digital Support</text>
+<rect x="120" y="490" width="330" height="44" rx="22" fill="#0b63ce"/>
+<text x="285" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">www.petechsolutions.co.ke</text>
+</svg>
